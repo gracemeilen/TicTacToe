@@ -1,15 +1,4 @@
 
-Lab number:Lab2
-Graded by:Yilong Hu   (hu.yilong@wustl.edu)
-Score: 99/ 100 (99+ 0 extra credit )
-Comments:
-
-Great job!
-
--1 Please print out how many turns it took when one player won in addition to listing them out
-
-----------------------------------------
-
 Grace Meilen
 Lab2
 
